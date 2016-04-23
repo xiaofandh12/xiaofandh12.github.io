@@ -77,7 +77,7 @@ category: blog
 * 《UNIX环境高级编程》by W.Richard Stevens
 * 《Computer Networks (Fifth Edition)》by Andrew S. Tanenbaum
 * 《Computer Systems A Programmmer's Perspective (Secone Edition)》 by Randal E. Bryant
-* 《Learn OpenStack Networking (Neutron)》
+* 《Learning OpenStack Networking (Neutron)》
 
 
 ## 博客
