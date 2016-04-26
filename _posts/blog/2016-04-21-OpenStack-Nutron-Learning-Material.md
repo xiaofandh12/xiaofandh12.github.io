@@ -8,6 +8,28 @@ category: blog
 ## 源码
 [OpenStack Neutron](https://github.com/openstack/neutron)
 
+* [OpenStack之Neutron入门一](http://www.aboutyun.com/forum.php?mod=viewthread&tid=9523&highlight=Neutron%2B%2B%C8%EB%C3%C5)
+* [OpenStack之Neutron入门二](http://www.aboutyun.com/thread-9517-1-1.html)
+* [OpenStack之Neutron入门三](http://www.aboutyun.com/thread-9537-1-1.html)
+* [openstack源码分析 - Paste Deployment介绍 ](http://blog.chinaunix.net/uid-20940095-id-4105407.html)
+* [openstack neutron分析（1）——neutron-server启动过程分析 ](http://www.aboutyun.com/thread-9527-1-1.html)
+* [openstack Neutron分析（2）—— neutron-l3-agent](http://www.aboutyun.com/thread-9529-1-1.html)
+* [openstack Neutron分析（3）—— neutron-dhcp-agent源码分析](http://www.aboutyun.com/thread-9533-1-1.html)
+* [openstack Neutron分析（4）—— neutron-l3-agent中的iptables ](http://www.aboutyun.com/thread-9536-1-1.html)
+* [openstack Neutron分析（5）-- neutron openvswitch agent ](http://www.aboutyun.com/thread-9538-1-1.html)
+* [openstack nova 源码分析1-setup脚本 ](http://www.aboutyun.com/thread-10090-1-1.html)
+* [openstack nova 源码分析2之nova-api,nova-compute](http://www.aboutyun.com/thread-10091-1-1.html)
+* [openstack nova 源码分析3-nova目录下的service.py、driver.py](http://www.aboutyun.com/thread-10092-1-1.html)
+* [openstack nova 源码分析4-1 -nova/virt/libvirt目录下的connection.py ](http://www.aboutyun.com/thread-10094-1-1.html)
+* [openstack nova 源码分析4-2 -nova/virt/libvirt目录下的connection.py ](http://www.aboutyun.com/thread-10095-1-1.html)
+* [OpenStack Nova源码结构解析 ](http://www.aboutyun.com/thread-10105-1-1.html)
+* [ OpenStack源码探秘（一）——Nova-Scheduler](http://blog.csdn.net/networm3/article/details/8783667?utm_source=tuicool&utm_medium=referral)
+* [别以为真懂Openstack: 虚拟机创建的50个步骤和100个知识点(1)](http://www.sxt.cn/u/756/blog/2780)
+* [别以为真懂Openstack: 虚拟机创建的50个步骤和100个知识点(2)](http://www.sxt.cn/u/756/blog/2778)
+* [别以为真懂Openstack: 虚拟机创建的50个步骤和100个知识点(3)](http://www.sxt.cn/u/756/blog/2797)
+* [别以为真懂Openstack: 虚拟机创建的50个步骤和100个知识点(4)](http://www.sxt.cn/u/756/blog/2798)
+* [别以为真懂Openstack: 虚拟机创建的50个步骤和100个知识点(5)](http://blog.csdn.net/xiangpingli/article/details/47857123)
+
 ## 文档
 ### [OpenStack Doc官网](http://docs.openstack.org)
 
