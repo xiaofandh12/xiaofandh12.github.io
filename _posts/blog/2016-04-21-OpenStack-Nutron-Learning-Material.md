@@ -129,6 +129,8 @@ category: blog
 ](http://my.oschina.net/tantexian/blog/634532?fromerr=8sIGSqmD)
 * [vmware centos7 clone mac地址导致 Failed to start LSB: Bring up/down networking.](http://my.oschina.net/tantexian/blog/634529?fromerr=smfHcI90)
 * [centos7将网卡加入到网桥后， Missing config file br-ex，网卡无法正常启动问题解决](http://my.oschina.net/tantexian/blog/634528?fromerr=TISUHsxt)
+* [OpenStack中的LoadBalancer(负载均衡)功能使用实例](http://www.cnblogs.com/biangbiang/archive/2013/05/29/3105900.html)
+* [OpenStack Neutron之Load Balance](http://www.ibm.com/developerworks/cn/cloud/library/1506_xiaohh_openstacklb/)
 * [负载均衡之Haproxy配置详解（及httpd配置）](http://my.oschina.net/tantexian/blog/626174?fromerr=mQOuYt6U)
 * [系统原理分析架构-二-CDN内容分发网络](http://my.oschina.net/tantexian/blog/626173?fromerr=7CmzQSa5)
 * [系统原理分析架构-一-DNS负载均衡](http://my.oschina.net/tantexian/blog/626171?fromerr=zgUMAoCy)
