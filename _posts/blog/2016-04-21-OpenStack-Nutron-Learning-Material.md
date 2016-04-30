@@ -45,7 +45,7 @@ category: blog
 * [OpenStack Security Guide](http://docs.openstack.org/security-guide/)
 	* [Networking](http://docs.openstack.org/security-guide/networking.html)
 * [OpenStack Architecture Design Guide](http://docs.openstack.org/arch-design/)
-	[Network focused](http://docs.openstack.org/arch-design/network-focus.html)
+	* [Network focused](http://docs.openstack.org/arch-design/network-focus.html)
 * [OpenStack API Complete Reference](http://developer.openstack.org/api-ref.html)
 	* [Networking API v2.0 (CURRENT)](http://developer.openstack.org/api-ref-networking-v2.html)
 	* [Networking API v2.0 extensions (CURRENT)](http://developer.openstack.org/api-ref-networking-v2-ext.html)
