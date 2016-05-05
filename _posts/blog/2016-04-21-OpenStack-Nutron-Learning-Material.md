@@ -100,7 +100,8 @@ category: blog
 * 《Computer Networks (Fifth Edition)》by Andrew S. Tanenbaum
 * 《Computer Systems A Programmmer's Perspective (Secone Edition)》 by Randal E. Bryant
 * 《Learning OpenStack Networking (Neutron)》
-
+* 《OpenStack设计与实现》
+* 《OpenStack开源云王者归来》
 
 ## 博客
 * [有云博客](https://www.ustack.com/about/blog/)
