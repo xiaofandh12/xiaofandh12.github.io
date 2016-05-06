@@ -102,7 +102,7 @@ category: blog
 * 《Learning OpenStack Networking (Neutron)》
 * 《OpenStack设计与实现》
 * 《OpenStack开源云王者归来》
-
+* 《云计算与OpenStack 虚拟机Nova篇》
 ## 博客
 * [有云博客](https://www.ustack.com/about/blog/)
 * [Mirants Blog](https://www.mirantis.com/blog/)
