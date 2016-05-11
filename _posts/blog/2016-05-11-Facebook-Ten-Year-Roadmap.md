@@ -19,7 +19,9 @@ category: blog
 * 为什么有这么多人没能连上互联网？
     
 > Availability: ARIES, TERRAGRAPH, SATELLITES
+
 > Affordability: LITE, AUGMENTED TRAFFIC CONTROL, TELECOM INFRA PROJECT
+
 > Awareness: FREE BASICS, JOFOM, 1DOC3
 
 * Artificial Intelligence, 怎样帮助人们更直接、更自然的连接、分享？seeing,hearing,language
@@ -29,6 +31,9 @@ category: blog
 * 改变我们感知世界的方式， Virtual and Augmented Reality
 
 > Gear VR, Oculus
+
 > RIFT
+
 > Touch controller
+
 > The future of VR/AR
