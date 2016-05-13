@@ -93,6 +93,18 @@ category: blog
 
 ### [OPEN DAYLIGHT](https://www.opendaylight.org)
 
+### [opnfv](https://www.opnfv.org)
+
+### [Neutron-Service Function Chaining](http://docs.openstack.org/developer/networking-sfc)
+
+### [vmware NSX](http://www.vmware.com/cn/products/nsx)
+
+### [sdnlab](http://www.sdnlab.com)
+
+### [Dragonflow](http://wiki.openstack.org/wiki/Dragonflow)
+
+### [tacker](http://docs.openstack.org/developer/tacker)
+
 ## 书籍
 * 《TCP/IP详解 卷一：协议》、《TCP/IP详解 卷二：实现》 by W.Richard Stenvens
 * 《UNIX网络编程 卷一：套接字联网API》、《UNIX网络编程 卷二：进程间通信》 by W.Richard Stevens
@@ -103,6 +115,7 @@ category: blog
 * 《OpenStack设计与实现》
 * 《OpenStack开源云王者归来》
 * 《云计算与OpenStack 虚拟机Nova篇》
+
 ## 博客
 * [有云博客](https://www.ustack.com/about/blog/)
 * [Mirants Blog](https://www.mirantis.com/blog/)
@@ -141,6 +154,13 @@ category: blog
 * [系统原理分析架构-二-CDN内容分发网络](http://my.oschina.net/tantexian/blog/626173?fromerr=7CmzQSa5)
 * [系统原理分析架构-一-DNS负载均衡](http://my.oschina.net/tantexian/blog/626171?fromerr=zgUMAoCy)
 * [系统原理分析架构-六-负载均衡（定义及介绍及LVS/Nginx/Haproxy比较）](http://my.oschina.net/tantexian/blog/626170?fromerr=2D6S9DyZ)
+* [深入理解openstack网络架构（1） ](http://blog.csdn.net/halcyonbaby/article/details/41524447/)
+* [深入理解openstack网络架构（2） ---- Basic Use Cases](http://blog.csdn.net/halcyonbaby/article/details/41578293/)
+* [深入理解openstack网络架构（3） ---- 路由](http://blog.csdn.net/halcyonbaby/article/details/41604459)
+* [深入理解openstack网络架构（4） ---- 连接到publi network](http://blog.csdn.net/halcyonbaby/article/details/41628891)
+* [网络虚拟化技术（一）：Linux网络虚拟化](http://blog.csdn.net/halcyonbaby/article/details/411369151)
+* [网络虚拟化技术（二）：TUN/TAP MACVLAN MACVTAP](http://blog.csdn.net/halcyonbaby/article/details/41269225)
+* [Open vSwitch工作原理](https://blog.kghost.info/2014/11/19/openvswitch-internal/)
 
 ## Mailing List
 openstack-dev@lists.openstack.org
