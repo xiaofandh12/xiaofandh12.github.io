@@ -163,6 +163,6 @@ category: blog
 * [网络虚拟化技术（一）：Linux网络虚拟化](http://blog.csdn.net/halcyonbaby/article/details/411369151)
 * [网络虚拟化技术（二）：TUN/TAP MACVLAN MACVTAP](http://blog.csdn.net/halcyonbaby/article/details/41269225)
 * [Open vSwitch工作原理](https://blog.kghost.info/2014/11/19/openvswitch-internal/)
-
+* [OpenStack neutron floating ips与iptables深入分析](http://blog.csdn.net/starean/article/details/16860819)
 ## Mailing List
 openstack-dev@lists.openstack.org
