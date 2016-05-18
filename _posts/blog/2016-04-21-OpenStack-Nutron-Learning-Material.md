@@ -5,6 +5,31 @@ description: OpenStack, Nutron, Learning Material
 category: blog
 ---
 
+## 学习什么
+
+* neutron代码的整体架构，消息通知、rpc如何实现，RESTful API如何实现
+* neutron的部署，常见问题的定位方法
+* neutron的配置文件
+* neutron的数据库设计，数据库中各表格的作用及其关联关系
+* neutron-server的启动流程及其作用
+* neutron-rpc-server的启动流程及其作用
+* neutron-openvswitch-agent的启动流程及其作用
+* neutron-dhcp-agent的启动流程及其作用
+* neutron-l3-agent的启动流程及其作用
+* neutron-linuxbridge-agent的启动流程及其作用
+* openvswitch、openflow、linuxbridge、iptables，tap device, veth pair的原理及其作用
+* plugin, driver, agent的关联关系，及作用
+* flat, vlan, gre, vxlan的网络模式是如何实现的
+* 如何与keystone交互进行身份认证，policy.json的原理和作用
+* nova会调用哪些neutron的API，流程是怎样的
+* neutron处理API请求的流程
+* firewall as a service, load banalance as a service, vpn as a service， security group
+* neutron的HA如何实现
+* neutron各种部署方式下，两个虚拟机之间如何通信以及虚拟机如何与外网通信
+* 关注邮件列表、IRC、OpenStack Summit，了解neutron最新动态
+* SDN/NFV
+
+
 ## 源码
 [OpenStack Neutron](https://github.com/openstack/neutron)
 
@@ -164,5 +189,6 @@ category: blog
 * [网络虚拟化技术（二）：TUN/TAP MACVLAN MACVTAP](http://blog.csdn.net/halcyonbaby/article/details/41269225)
 * [Open vSwitch工作原理](https://blog.kghost.info/2014/11/19/openvswitch-internal/)
 * [OpenStack neutron floating ips与iptables深入分析](http://blog.csdn.net/starean/article/details/16860819)
-## Mailing List
-openstack-dev@lists.openstack.org
+## Mailing List and IRC
+* openstack-dev@lists.openstack.org
+* /#openstack-neutron, /#openstack-meeting-3
