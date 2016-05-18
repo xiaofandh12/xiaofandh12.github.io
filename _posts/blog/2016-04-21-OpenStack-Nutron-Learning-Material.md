@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenStack Nutron学习资料
+title: OpenStack Neutron学习资料
 description: OpenStack, Nutron, Learning Material
 category: blog
 ---
