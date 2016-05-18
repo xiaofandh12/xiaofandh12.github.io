@@ -44,7 +44,7 @@ category: blog
 * PE,Physical Extend,物理扩展块
 
 * PE与VG的相关性图示
-* 
+
 ![PE and VG](/images/2016-05-18-Logical-Volume-Manager-LVM/pe_vg.gif)
 
 
