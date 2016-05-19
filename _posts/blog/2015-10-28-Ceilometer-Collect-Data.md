@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenStack Ceilometer: 数据采集原理
+title: OpenStack Ceilometer - 数据采集原理
 description: OpenStack,Ceilometer
 category: blog
 ---

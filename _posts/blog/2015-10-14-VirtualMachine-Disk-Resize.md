@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一体化监控系统: 云操作系统中创建虚拟机时分配的磁盘空间与虚拟机中看到的磁盘空间大小不一
+title: 一体化监控系统 - 云操作系统中创建虚拟机时分配的磁盘空间与虚拟机中看到的磁盘空间大小不一
 description: OpenStack, Image, Disk Size
 category: blog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ceilometer中边界触发型告警器的状态更新和动作触发源码分析
+title: OpenStack Ceilometer: 边界触发型告警器的状态更新和动作触发源码分析
 description: OpenStack, Ceilometer, Threshold Alarm, evaluate, _statistics, _sufficient, _transition
 category: blog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zabbix源码分析: Zabbix前端创建Host分析
+title: Zabbix源码分析 - Zabbix前端创建Host分析
 description: Zabbix Frontends,Create Host
 category: blog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenStack: 邮件列表和IRC
+title: OpenStack - 邮件列表和IRC
 description: OpenStack, Mailing List, IRC
 category: blog
 ---

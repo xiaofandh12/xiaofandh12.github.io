@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zabbix源码分析: Zabbix Server的main_dbconfig_loop()分析
+title: Zabbix源码分析 - Zabbix Server的main_dbconfig_loop()分析
 description: Zabbix Server, main_dbconfig_loop(), 柔性数组
 category: blog
 ---

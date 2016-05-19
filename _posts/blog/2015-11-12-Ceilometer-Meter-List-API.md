@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenStack Ceilometer: API调用流程分析
+title: OpenStack Ceilometer - API调用流程分析
 description: OpenStack, Ceilometer, Meter List, API
 category: blog
 ---
