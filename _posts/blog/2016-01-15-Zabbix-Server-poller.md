@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zabbix源码分析 - Zabbix Server的main_poller_loop()分析
+title: Zabbix源码分析 -- Zabbix Server的main_poller_loop()分析
 description: Zabbix Server, main_poller_loop()
 category: blog
 ---

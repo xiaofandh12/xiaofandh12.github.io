@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zabbix源码分析 - Zabbix Server概貌介绍
+title: Zabbix源码分析 -- Zabbix Server概貌介绍
 description: Zabbix,Zabbix Server,数据库,进程
 category: blog
 ---

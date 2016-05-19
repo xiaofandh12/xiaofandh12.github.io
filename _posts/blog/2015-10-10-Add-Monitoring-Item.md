@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenStack Ceilometer - 新增节点内存监控项
+title: OpenStack Ceilometer -- 新增节点内存监控项
 description: OpenStack, Ceilometer, Metering
 category: blog
 ---

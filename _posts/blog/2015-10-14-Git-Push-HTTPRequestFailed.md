@@ -1,6 +1,6 @@
 ---
 layout: post
-title: git push发生HTTP request failed错误
+title: Git -- git push发生HTTP request failed错误
 description: git push, HTTP request failed, .git/config
 category: blog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenStack Ceilometer - MongoDB的监控工具mongostat与MongoDB Cloud Manager
+title: OpenStack Ceilometer -- MongoDB的监控工具mongostat与MongoDB Cloud Manager
 description: OpenStack,Ceilometer,MongoDB,mongostat,MongoDB Cloud Manager
 category: blog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 逻辑卷管理器（Logical Volume Manager, LVM）
+title: Linux -- 逻辑卷管理器（Logical Volume Manager, LVM）
 description: LVM
 category: blog
 ---

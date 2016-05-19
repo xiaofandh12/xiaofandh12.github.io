@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 扎克伯格:Facebook十年发展规划
+title: 扎克伯格关于Facebook的十年发展规划
 description: Mark Zuckerberg, Facebook, Ten year roadmap
 category: blog
 ---

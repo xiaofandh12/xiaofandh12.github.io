@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenStack Ceilometer - 后台数据存储优化之MongoDB的分片存储设置
+title: OpenStack Ceilometer -- 后台数据存储优化之MongoDB的分片存储设置
 description: OpenStack,Ceilometer,MongoDB,Shard
 category: blog
 ---
