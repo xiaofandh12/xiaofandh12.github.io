@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用一体化监控系统监控云操作系统虚拟机中的MySQL数据库服务
+title: 一体化监控系统: 监控云操作系统虚拟机中的MySQL数据库服务
 description: OpenStack, Monitor, TopCloud, Virtual Machine, CentOS, MySQL
 category: blog
 ---
