@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 开发者大会 -- F8 keynote 扎克伯格关于Facebook的十年发展规划
+title: 开发者大会 -- F8 Keynote 扎克伯格关于Facebook的十年发展规划
 description: Mark Zuckerberg, Facebook, Ten year roadmap
 category: blog
 ---
