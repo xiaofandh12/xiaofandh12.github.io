@@ -50,7 +50,7 @@ category: blog
 	```
 3. 环形缓冲区是生产者和消费者模型中常用的数据结构。生产者将数据放入数组的尾端，而消费者从数组的另一端移走数据，当达到数组的尾部时，生产者绕回到数组的头部。如图所示：
 
-![image](/images/2016-05-21-Interview-Ruiyi.md)
+![image](/images/2016-05-21-Interview-Ruiyi/CircularBuff.jpg)
 
 定义循环缓冲队列如下（省略其他函数，并假设数据已初始化好），请实现WriteData()和ReadData()方法(二选一):
 
