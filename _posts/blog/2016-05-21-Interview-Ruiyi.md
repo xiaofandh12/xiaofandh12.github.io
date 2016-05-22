@@ -33,6 +33,33 @@ category: blog
 	```
 	void list_delete(struct list_node * node);
 	```
+
+	* 解答：
+
+	```
+	void list_insert(struct list_node *node, struct list_node *new) {
+		if (new == NULL) return;
+		if (node == NULL) node = new;
+		else {
+			list_node * temp = node->next;
+			node->next = new;
+			new->next = temp;
+			new->prev = node;
+			temp->prev = new;
+		}
+	}
+	
+	void list_delete(struct list_node *node) {
+		if (node == NULL) return;
+		if (node->newxt == node) node = NULL;
+		else if {
+			list_node * temp1 = node->prev;
+			list_node * temp2 = node->next;
+			temp1->next = temp2;
+			temp2->prev = temp1;
+		}
+	}
+	```
 	
 2. 已知二叉树节点定义为：
 
@@ -48,11 +75,14 @@ category: blog
 	```
 	void BFS(BiTNode *pRoot);
 	```
+	
+	* 解答：
+	
 3. 环形缓冲区是生产者和消费者模型中常用的数据结构。生产者将数据放入数组的尾端，而消费者从数组的另一端移走数据，当达到数组的尾部时，生产者绕回到数组的头部。如图所示：
 
 ![image](/images/2016-05-21-Interview-Ruiyi/CircularBuff.jpg)
 
-定义循环缓冲队列如下（省略其他函数，并假设数据已初始化好），请实现WriteData()和ReadData()方法(二选一):
+	定义循环缓冲队列如下（省略其他函数，并假设数据已初始化好），请实现WriteData()和ReadData()方法(二选一):
 
 	```
 	class CircularBuff
@@ -74,6 +104,23 @@ category: blog
 	}
 	```
 
+	* 解答：
+
+	```
+	int WriteData(const char * pBuff, int iLen) {
+		int res = 0;
+		for (int i = 0; i < iLen; i++) {
+			if ((m_iWrite + 1) % m_buff) == m_iRead) return res;
+			else {
+				*(m_pBuff + m_iWrite) = *(pBuff + 1);
+				m_iWrite = (m_iWrite + 1) % m_buff;
+				res++;
+			}
+		}
+	}
+	```
+	
+
 4. 内存中有1万个整数的数组，写一段算法，找出前100个最大的整数（可用伪码）。
 
 	```
@@ -83,20 +130,37 @@ category: blog
 	void FindMax(int Arr[], int ResArr[]);
 	```
  
+ 	* 解答：
+ 	
+ 	```
+ 	
+ 	```
 ### 问答题（6选5）:
 
 1. 请解释继承、组合、函数重载（Overload）、函数重构（override）的概念。
 
+	* 解答：继承 - 之类拥有父类的方法、成员变量，is-a；组合 - has-a；重载 - 同一个函数拥有不同的参数列表；重构 - 子类覆写父类的方法，该方法需要为virtual。
+
 2. C++中replacement new和new的区别。
 
+	* 解答：replacement new的存储地址已提前申请好，只是从地址池传一个指针过去即可，这样可以避免内存的频繁申请和释放，产生内存碎片。
+	
 3. 进程间通信主要包含哪几种方式，请简要说明。
 
-4. 什么是守护（daemon）进程？列出编写守护进程的主要步骤。
+	* 解答：管道(Pipe)，信号量(Semophore)，信号(Singal)，消息队列(Message Queue)，共享内存(Shared Memory)，套接字(Socker)
 
+4. 什么是守护（daemon）进程？列出编写守护进程的主要步骤。
+	
+	* 解答：守护进程
+	
 5. 已知mysql一张数据表最多存1千万条数据，假设用户数据存于数据库GameDB中的AccountTable，在游戏运营过程中，注册用户数会不断增加，假设设置一张表800万条数据为警戒线，达到警戒线数据库表需要扩容，请简述你的扩容方案。
+
+	* 解答：分裂法，先停服，把一张表格复制两份（同一个数据库，或不同数据库，或不同机器），然后规定第一张表格存储奇数ID的数据，第二张表格存储偶数ID的数据，然后使用第三方的工具删除第一张表格的偶数ID的数据，删除第二张表格奇数ID的数据。
 
 6. 在玩家对战的实时交互中，拟使用UDP进行网络通信，但需要在应用层解决UDP不可靠（乱序、丢包）的问题，请简述你的可靠UDP方案（最好图示之）。
 
+	* 解答： UDP报文中加入序列号，校验码；发送端对每一个序列号都要求接收端发送ACK，如果没有收到ACK，就重发该序列号的报文，接收端如果收到重复报文就丢弃。
+	
 ## 技术面试
 
 做完题之后，Bill主要就题目跟我做了一些讨论，也大概问了一下我以前做的事情，最后给了我一些学习的建议，如果去了它们公司会怎么样的培养，会让我在实际的项目中获得很大的成长。
