@@ -113,7 +113,8 @@ category: blog
 ### [Mirantis Resources](https://www.mirantis.com/openstack-resources/)
 
 * [Mirantis OpenStack 7.0 NFVI Deployment Guide](https://content.mirantis.com/MOS-7-NFVI-Whitepaper-Landing-Page.html)
-		
+* [Configuring Floating IP addresses for Networking in OpenStack Public and Private Clouds](https://www.mirantis.com/blog/configuring-floating-ip-addresses-networking-openstack-public-private-clouds/)
+    
 ### [Rakspace doc](http://docs.rackspace.com)
     
     * [Neutron Networking: Neutron Routers and the L3 Agent](https://developer.rackspace.com/blog/neutron-networking-l3-agent/)
