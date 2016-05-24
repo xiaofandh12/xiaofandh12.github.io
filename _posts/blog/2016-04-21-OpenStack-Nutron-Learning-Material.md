@@ -97,7 +97,8 @@ category: blog
 * [Networking](https://www.rdoproject.org/documentation/networking/)
 	* [OpenStack Networking in Too Much Detail](https://www.rdoproject.org/networking/networking-in-too-much-detail/)
 	* [Using GRE Tenant Networks](https://www.rdoproject.org/networking/using-gre-tenant-networks/)
-
+    * [Difference between Floating IP and private IP](https://www.rdoproject.org/networking/difference-between-floating-ip-and-private-ip/)
+    
 ### [Product Documentation for Red Hat OpenStack Platform](https://access.redhat.com/documentation/en/red-hat-openstack-platform/)
 
 ### [Mirantis Resources](https://www.mirantis.com/openstack-resources/)
