@@ -106,6 +106,8 @@ category: blog
 * [Mirantis OpenStack 7.0 NFVI Deployment Guide](https://content.mirantis.com/MOS-7-NFVI-Whitepaper-Landing-Page.html)
 		
 ### [Rakspace doc](http://docs.rackspace.com)
+    
+    * [Neutron Networking: Neutron Routers and the L3 Agent](https://developer.rackspace.com/blog/neutron-networking-l3-agent/)
 
 ### SDN/NFV
 
