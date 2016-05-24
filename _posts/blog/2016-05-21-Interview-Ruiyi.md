@@ -15,7 +15,7 @@ category: blog
 ## 题目解析
 
 ### 编程题（4选3）
-#### 1. 已知带头节点的循环双链表节点定义为：
+1. 已知带头节点的循环双链表节点定义为：
 	
 	```
 	struct list_node {
@@ -62,7 +62,7 @@ category: blog
 	}
 	```
 	
-#### 2. 已知二叉树节点定义为：
+2. 已知二叉树节点定义为：
 
 	```
 	typedef struct bittree_node {
