@@ -151,6 +151,8 @@ category: blog
 * 《UNIX环境高级编程》by W.Richard Stevens
 * 《Computer Networks (Fifth Edition)》by Andrew S. Tanenbaum
 * 《Computer Systems A Programmmer's Perspective (Secone Edition)》 by Randal E. Bryant
+* 《The Hacker's Guide to Python》
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * 《Learning OpenStack Networking (Neutron)》
 * 《OpenStack设计与实现》
 * 《OpenStack开源云王者归来》
@@ -161,6 +163,7 @@ category: blog
 * [Mirants Blog](https://www.mirantis.com/blog/)
 * [RDO Community Blogs](http://techs.enovance.com)
 * [RACKSPACE DEVELOPER BLOG](https://developer.rackspace.com/blog/)
+* [OpenStack Hacker养成指南](https://www.ustack.com/blog/openstack_hacker/)
 * [孔令贤](http://lingxiankong.github.io)
 * [Blogs - Red Hat Customer Portal](https://access.redhat.com/blogs/)
 * [开发人员必读openstack网络基础1:什么是L2、L3](http://www.aboutyun.com/forum.php?mod=viewthread&tid=9647&highlight=%BF%AA%B7%A2%C8%CB)
