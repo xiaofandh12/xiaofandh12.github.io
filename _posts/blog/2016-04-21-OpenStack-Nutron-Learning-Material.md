@@ -117,7 +117,7 @@ category: blog
     
 ### [Rakspace doc](http://docs.rackspace.com)
     
-    * [Neutron Networking: Neutron Routers and the L3 Agent](https://developer.rackspace.com/blog/neutron-networking-l3-agent/)
+* [Neutron Networking: Neutron Routers and the L3 Agent](https://developer.rackspace.com/blog/neutron-networking-l3-agent/)
 
 ### SDN/NFV
 
