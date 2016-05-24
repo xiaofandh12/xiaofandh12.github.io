@@ -91,6 +91,15 @@ category: blog
 	* [PowerVM Networking service Plug-in(networking-powervm)](http://docs.openstack.org/developer/networking-powervm/)
 	* [Service Function Chaining Networking service Plug-in(networking-sfc)](http://docs.openstack.org/developer/networking-sfc/)
 
+### [华为](http://www.huawei.com/cn)
+
+* [华为 - 企业用户](http://e.huawei.com/cn)
+    * [华为 - 交换机](http://e.huawei.com/cn/products/enterprise-networking/switches)
+    * [华为 - 路由器](http://e.huawei.com/cn/products/enterprise-networking/routers)
+    * [华为 - 云计算](http://e.huawei.com/cn/products/cloud-computing-dc/cloud-computing)
+    * [华为 - 网管&SDN控制器](http://e.huawei.com/cn/products/software)
+    * [华为 - 软件定义网络（SDN）](http://e.huawei.com/cn/solutions/technical/sdn)
+
 ### [RDO Doc](https://www.rdoproject.org/documentation/)
 
 * [trystack](http://trystack.org)
