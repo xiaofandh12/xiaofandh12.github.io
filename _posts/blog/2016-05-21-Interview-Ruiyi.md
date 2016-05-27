@@ -175,10 +175,22 @@ category: blog
 
     隐藏、重载、重构容易混淆，简单的区别是：重载发生在同一个类中，隐藏和覆盖都发生在派生类与基类中；派生类和基类中，如果两个函数函数名称和参数列表完全相同，基类函数中如果使用了virtual，则属于重构，如果没有使用virtual，则属于隐藏；派生类与基类中，如果两个函数函数名称相同，参数列表不同，不管基类函数前是否使用了virtual，都属于隐藏。
     
-2. C++中replacement new和new的区别。
+2. C++中placement new和new的区别。
 
 	解答：replacement new的存储地址已提前申请好，只是从地址池传一个指针过去即可，这样可以避免内存的频繁申请和释放，产生内存碎片。
 	
+    new - 不能被重载，其行为总是一致的，它先调用operator new分配内存，然后调用构造函数初始化那段内存。new操作符的执行过程：调用operator new分配内存；调用构造函数生成类对象；返回相应指针。
+
+    operator new - 要实现不同的内存行为，应该重载operator new，而不是new。operator new就像operator+一样，是可以重载的。如果类中没有重载operator new，那么调用的就是全局的::operator new来完成堆的分配。同理，operator new[]、operator delete、operator delete[]也是可以重载的。
+
+    placement new - 只是operator new重载的一个版本。它并不分配内存，只是返回指向已经分配好的某段内存的一个指针，因此不能删除它，但需要调用对象的析构函数。如果你想在已经分配的内存中创建一个对象，使用new是行不通的，也就是说placement new允许你在一个已经分配好的内存中（栈或堆中）构造一个新的对象。
+
+    ```
+    Widget * p = new Widget; //ordinary new
+    //括号中的参数ptr是一个指针，它指向一个内存缓冲区，placement new将在这个缓冲器上分配一个对象
+    int pi = new(ptr) int; //placement new
+    ```
+
 3. 进程间通信主要包含哪几种方式，请简要说明。
 
 	解答：
