@@ -179,6 +179,7 @@ category: blog
 * [OpenvSwitch完全使用手册](http://my.oschina.net/tantexian/blog/648965?fromerr=ZkIfFQ0j)
 * [专注云计算-学习OpenStack](http://www.cnblogs.com/sammyliu/category/636967.html)
 * [技术点详解---IPSec VPN基本原理](http://www.cnblogs.com/phoenixzq/archive/2013/05/18/3085366.html)
+* [计算机网络基础知识总结](http://www.cnblogs.com/maybe2030/p/4781555.html)
 * [NAT技术介绍(转)](http://my.oschina.net/tantexian/blog/648957?fromerr=qrqJiZS3)
 * [IPsec技术介绍(转)](http://my.oschina.net/tantexian/blog/648955?fromerr=pN2o73uW)
 * [IPSEC与SSL/TLS的比较（转）](http://my.oschina.net/tantexian/blog/648954?fromerr=VtjD9AqD)
