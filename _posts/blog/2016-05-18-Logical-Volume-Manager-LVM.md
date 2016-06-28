@@ -15,6 +15,8 @@ category: blog
 
 * [云操作系统中创建虚拟机时分配的磁盘空间与虚拟机中看到的磁盘空间大小不一](http://xiaofandh12.github.io/VirtualMachine-Disk-Resize)
 
+* [resize2fs: Bad magic number in super-block while trying to open](http://stackoverflow.com/questions/26305376/resize2fs-bad-magic-number-in-super-block-while-trying-to-open/)
+
 * [A Beginner's Guide To LVM - HowtoForge](https://www.howtoforge.com/linux_lvm)
 
 * [LVM Administor's Guide - CentOS](https://www.centos.org/docs/5/html/Cluster_Logical_Volume_Manager/)
