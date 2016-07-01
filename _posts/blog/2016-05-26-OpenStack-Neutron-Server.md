@@ -2,7 +2,7 @@
 layout: post
 title: OpenStack Neutron -- neutron-server服务的启动流程
 description: OpenStack, Neutron, neutron-server
-category: blog
+category: blog.bak
 ---
 
 ### neutron-server服务启动的大致流程
