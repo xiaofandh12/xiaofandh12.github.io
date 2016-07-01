@@ -2,7 +2,7 @@
 layout: post
 title: OpenStack Neutron -- WSGI
 description: OpenStack, Neutron, WSGI
-category: blog
+category: blog.bak
 ---
 
 技术与阅读 Template
